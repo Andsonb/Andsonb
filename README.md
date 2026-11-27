@@ -6,6 +6,8 @@
 
 ![Local](https://img.shields.io/badge/Pernambuco%2C%20Brasil-0b1d3a?style=for-the-badge&logo=googlemaps&logoColor=00C2D1)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-barbosa-65a486161/)
+
 </div>
 
 ---
